@@ -1,0 +1,14 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "Game Embeddings",
+        "tensorShape": [
+          1000,
+          50
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/wcai-ea/test_embeddings/master/data/embeddings/arga_projector_embeddings.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/wcai-ea/test_embeddings/master/data/embeddings/arga_projector_metadata.tsv",
+        "bookmarksPath": "https://raw.githubusercontent.com/wcai-ea/test_embeddings/master/data/embeddings/arga_projector_bookmarks.txt"
+      }
+    ]
+}
